@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Arya4514/Arya4514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -66,7 +66,7 @@ while(alive){<br/>
 
 ## 📫 **Link Tree:**
 <p align="center">
-<a href="https://www.linkedin.com/in/shubham-kumar-127a77169/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shubham-Kumar-2000" height="40" width="40" /></a>  &nbsp;&nbsp;   
-<a href="mailto:shukhu10@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Shubham-Kumar-2000" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/GeekTalks" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Shubham-Kumar-2000" height="40" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/shubham-kumar-127a77169/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shubham-Kumar-2000" height="40" width="40" /></a>  &nbsp;&nbsp;    -->
+<a href="mailto:aryanchothani4514@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Shubham-Kumar-2000" height="40" width="40" /></a>&nbsp;&nbsp;
+<!-- <a href="https://www.youtube.com/c/GeekTalks" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Shubham-Kumar-2000" height="40" width="40" /></a> -->
 
