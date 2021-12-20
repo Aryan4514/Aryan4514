@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+### Hi 👋, I'm Aryan Chothani
 
 <!--
 **Arya4514/Arya4514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
