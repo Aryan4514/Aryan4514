@@ -40,11 +40,6 @@ while(alive){<br/>
 ![Next.JS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-violet?style=for-the-badge&logo=graphql)
 
-
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
-
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu)
