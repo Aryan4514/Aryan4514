@@ -33,16 +33,21 @@ while(alive){<br/>
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Node](https://img.shields.io/badge/-Node-blue?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Redis](https://img.shields.io/badge/-Redis-white?style=for-the-badge&logo=redis)
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-blue?style=for-the-badge&logo=react)
-![Next.JS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-violet?style=for-the-badge&logo=graphql)
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu)
+
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+<a href="https://stackoverflow.com/users/12761193/aryan">Aryan</a>
 
 ## 📈 **Github Stats:**
 
