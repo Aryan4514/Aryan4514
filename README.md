@@ -38,7 +38,6 @@ while(alive){<br/>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Redis](https://img.shields.io/badge/-Redis-white?style=for-the-badge&logo=redis)
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-violet?style=for-the-badge&logo=graphql)
 
@@ -47,7 +46,7 @@ while(alive){<br/>
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=for-the-badge&logo=ubuntu)
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-<a href="https://stackoverflow.com/users/12761193/aryan">Aryan</a>
+<a href="https://stackoverflow.com/users/12761193/aryan">ARYAN</a>
 
 ## 📈 **Github Stats:**
 
@@ -55,9 +54,9 @@ while(alive){<br/>
     <a href="https://github.com/Arya4514">
         <img  width="390" src="https://github-readme-stats.vercel.app/api?username=Arya4514&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
     </a>
-    <a href="https://github.com/Arya4514">
+    <!--<a href="https://github.com/Arya4514">
         <img  width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Arya4514&theme=tokyonight" />
-    </a>
+    </a>-->
 </p>
 <p align="center">
   <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Arya4514/count.svg" alt="Visitor Count" /></h2>
