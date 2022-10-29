@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Aryan Chothani
 
 <!--
-**Arya4514/Arya4514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aryan4514/Aryan4514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Aryan Chothani</h1>
 
@@ -50,16 +50,16 @@ while(alive){<br/>
 
 ## 📈 **Github Stats:**
 
-<p align="center"  href="https://github.com/Arya4514">
-    <a href="https://github.com/Arya4514">
-        <img  width="390" src="https://github-readme-stats.vercel.app/api?username=Arya4514&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+<p align="center"  href="https://github.com/Aryan4514">
+    <a href="https://github.com/Aryan4514">
+        <img  width="390" src="https://github-readme-stats.vercel.app/api?username=Aryan4514&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
     </a>
-    <!--<a href="https://github.com/Arya4514">
-        <img  width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Arya4514&theme=tokyonight" />
+    <!--<a href="https://github.com/Aryan4514">
+        <img  width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan4514&theme=tokyonight" />
     </a>-->
 </p>
 <p align="center">
-  <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Arya4514/count.svg" alt="Visitor Count" /></h2>
+  <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Aryan4514/count.svg" alt="Visitor Count" /></h2>
 </p>
 
 
